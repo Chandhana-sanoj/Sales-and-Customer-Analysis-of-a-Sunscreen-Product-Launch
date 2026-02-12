@@ -89,7 +89,7 @@ A separate product table was also created to store:
 ---
 ## Dashboard Preview
 
-![Dashboard Preview](power_bi/DashboardScreenshot.png)
+![Dashboard Preview](power_bi/Dashboard Screenshot.png)
 
 ---
 ## Key Insights
