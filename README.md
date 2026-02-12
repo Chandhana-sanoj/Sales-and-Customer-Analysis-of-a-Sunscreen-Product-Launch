@@ -89,7 +89,7 @@ A separate product table was also created to store:
 ---
 ## Dashboard Preview
 
-![Dashboard Preview](powerbi/dashboard screenshot.png)
+![Dashboard Preview](power_bi/Dashboard Screenshot.png)
 
 ---
 ## Key Insights
@@ -150,7 +150,3 @@ project-root/
 - Data Modeling and Relationships in Power BI
 - Translating business questions into data analysis
 - Generating actionable insights and business recommendations
-
-
-```markdown
-![Dashboard Preview](PowerBI/dashboard_screenshot.png)
