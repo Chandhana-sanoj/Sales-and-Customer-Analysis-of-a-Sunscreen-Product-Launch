@@ -13,6 +13,33 @@ The objective was to generate business insights and recommendations that help im
 
 ---
 
+## Business Questions
+
+### Launch Impact
+- How did sales change after the product launch?
+- What is the percentage growth after launch?
+
+### Product Performance
+- Which variant generated the highest revenue?
+- Which variant sold the most units?
+- Which variant generated the highest profit?
+
+### Customer Behavior
+- What percentage of customers are repeat customers?
+- Do returning customers contribute more revenue?
+- Which age group contributes the most revenue?
+
+### Channel Performance
+- Which channel generates more revenue?
+- Which channel has the highest average order value?
+- How did channel performance change after launch?
+
+### Regional Performance
+- Which region generates the highest revenue?
+- Which region shows the fastest growth after launch?
+
+---
+
 ## Dataset Description
 Since a suitable public dataset was not available, a realistic synthetic dataset was created to simulate a real business scenario.
 
@@ -41,30 +68,9 @@ A separate product table was also created to store:
 
 ---
 
-## Business Questions
+## Dashboard Preview
 
-### Launch Impact
-- How did sales change after the product launch?
-- What is the percentage growth after launch?
-
-### Product Performance
-- Which variant generated the highest revenue?
-- Which variant sold the most units?
-- Which variant generated the highest profit?
-
-### Customer Behavior
-- What percentage of customers are repeat customers?
-- Do returning customers contribute more revenue?
-- Which age group contributes the most revenue?
-
-### Channel Performance
-- Which channel generates more revenue?
-- Which channel has the highest average order value?
-- How did channel performance change after launch?
-
-### Regional Performance
-- Which region generates the highest revenue?
-- Which region shows the fastest growth after launch?
+![Dashboard Preview](power_bi/Dashboard_Screenshot.png)
 
 ---
 
@@ -84,12 +90,7 @@ A separate product table was also created to store:
 ### 3. Data Visualization (Power BI)
 - Built an interactive dashboard  
 - Created KPIs and charts  
-- Added slicers for filtering and exploration  
-
----
-## Dashboard Preview
-
-![Dashboard Preview](power_bi/Dashboard_Screenshot.png)
+- Added slicers for filtering and exploration
 
 ---
 ## Key Insights
