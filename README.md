@@ -121,6 +121,7 @@ A separate product table was also created to store:
 ---
 ## Repository Structure
 
+```
 project-root/
 │
 ├── data/
@@ -139,6 +140,7 @@ project-root/
 │   └── sales_analysis_queries.sql
 │
 └── README.md
+```
 
 ---
 ## Skills Demonstrated
