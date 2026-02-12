@@ -4,5 +4,5 @@ This folder contains the datasets used in the project "Sales and Customer Analys
 
 Files included:
 
-raw_data.xlsx  
-cleaned_data.xlsx  
+- sunscreen_product_launch_cleaned_dataset.xlsx  
+- sunscreen_product_launch_pro_dataset.xlsx  
