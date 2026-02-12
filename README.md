@@ -1,4 +1,4 @@
-# Sales & Customer Insights – Sunscreen Product Launch Analysis
+# Sales & Customer Insights – Sunscreen Product Launch Analysis - Excel,SQL Server,Power BI.
 
 ## Project Overview
 This project analyzes the performance of a sunscreen product launch to understand its impact on sales, customer behavior, and regional growth.  
